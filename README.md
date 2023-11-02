@@ -12,7 +12,6 @@ Initial Setup and Testing
 There is simulated data to illustrate the functionalities of our application. To generate random yet distinct data for each product, 
 1. install @faker-js/faker library by using 'npm install faker'
 
-2. install chalk npm package by using 'npm install chalk'
 
 
 Using the Command Line

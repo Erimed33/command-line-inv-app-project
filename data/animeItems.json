@@ -1,0 +1,75 @@
+ [
+    {
+        "itemName": "One Piece Cup",
+        "priceInCents": 1200,
+        "inStock": 50,
+        "itemId": "OPC-01",
+        "rating": 4.5
+    },
+    {
+        "itemName": "One Piece Shirt (Small)",
+        "priceInCents": 2500,
+        "inStock": 30,
+        "itemId": "OPS-01",
+        "rating": 4.8
+    },
+    {
+        "itemName": "One Piece Shirt (Medium)",
+        "priceInCents": 2700,
+        "inStock": 40,
+        "itemId": "OPM-01",
+        "rating": 4.7
+    },
+    {
+        "itemName": "One Piece Shirt (Large)",
+        "priceInCents": 2900,
+        "inStock": 35,
+        "itemId": "OPL-01",
+        "rating": 4.6
+    },
+    {
+        "itemName": "Demon Slayer Anime Decor",
+        "priceInCents": 3200,
+        "inStock": 25,
+        "itemId": "DSA-01",
+        "rating": 4.9
+    },
+    {
+        "itemName": "Sailor Moon Blanket",
+        "priceInCents": 3500,
+        "inStock": 20,
+        "itemId": "SMB-01",
+        "rating": 4.7
+    },
+    {
+        "itemName": "Naruto Anime Shirt",
+        "priceInCents": 2800,
+        "inStock": 45,
+        "itemId": "NAS-01",
+        "rating": 4.8
+    },
+    {
+        "itemName": "Dragon Ball Z Energy Drink",
+        "priceInCents": 1500,
+        "inStock": 40,
+        "itemId": "DBZ-01",
+        "rating": 4.4
+    },
+    {
+        "itemName": "Dragon Ball Z Action Figure Set",
+        "priceInCents": 3900,
+        "inStock": 15,
+        "itemId": "DBZ-02",
+        "rating": 4.7
+    },
+    {
+        "itemName": "Dragon Ball Z T-Shirt (Large)",
+        "priceInCents": 2700,
+        "inStock": 30,
+        "itemId": "DBZ-03",
+        "rating": 4.6
+    }
+]
+
+
+
